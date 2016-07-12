@@ -1,4 +1,4 @@
-TARGET = Permutations
+TARGET = StringReversal
 LIBS = -lm
 CPP = g++
 CPPFLAGS = -g -Wall
