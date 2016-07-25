@@ -1,0 +1,14 @@
+/*
+# Assume p[i] is ith prime number
+#
+# rem=0;
+# for i=0; p[i]*p[i] < N && rem == 0; i++
+# if (N%p[i] == 0);
+#	rem=0;
+#	while (N%p[i] == 0 && rem == 0)
+#		rem = N%(p[i]*p[i]);
+#		N = N/(p[i]*p[i]);
+#	if  
+# if rem == 0 ==> is square
+*/
+
